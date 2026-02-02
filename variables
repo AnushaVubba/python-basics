@@ -1,0 +1,9 @@
+age = 18
+
+has_voter_id = False
+
+if age >= 18 or has_voter_id:
+    print("can vote")
+else :
+    print("cannot vote")
+
